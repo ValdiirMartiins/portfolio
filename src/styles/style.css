@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(240, 240, 240);
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+div.contacts button {
+    margin-top: 10px;
+}
+
+#github {
+    width: 15rem;
+}
+
+#linkedin {
+    justify-content: left;
+    width: 12rem;
+}
+
+#email {
+    width: 17rem;
+}
+
+p.card-header-title {
+    font-size: 1.3em;
+}
+
+div.tecnologies span {
+    margin: 5px;
+}
+
+div.project img {
+    margin-top: 0.5em;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.50) 0px 3px 8px;
+}
+
+div.project span {
+    margin: 1px;
+}
